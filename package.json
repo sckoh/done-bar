@@ -8,9 +8,9 @@
     "ios": "react-native run-ios",
     "android": "react-native run-android"
   },
-  "dependencies": {
-    "react": "^16.0.0",
-    "react-native": "^0.48.4"
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": "^0.44.0"
   },
   "devDependencies": {
     "babel-jest": "^21.2.0",
